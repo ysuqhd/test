@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 include <stdio.h>
-=======
-include <stdlib.h>
-
->>>>>>> 6a84b65f2300971445473b2cb87ab02c6707fdd8
