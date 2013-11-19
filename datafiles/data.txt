@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include <stdlib.h>
+=======
+#include <stdio.h>
+>>>>>>> 09398f8eff5fae28df2269d89dfb34a9712c1b2e
